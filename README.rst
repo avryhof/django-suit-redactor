@@ -25,8 +25,8 @@ Build Status
 
 Django Suit Redactor app uses Travis CI to perform tests on different Django and Python versions.
 
-.. |master| image:: https://travis-ci.org/darklow/django-suit-redactor.png?branch=master
+.. |master| image:: https://travis-ci.org/avryhof/django-suit-redactor.png?branch=master
    :alt: Build Status - master branch
-   :target: http://travis-ci.org/darklow/django-suit-redactor
+   :target: http://travis-ci.org/avryhof/django-suit-redactor
 
 |master|
