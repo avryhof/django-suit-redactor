@@ -1,0 +1,2 @@
+django-suit
+Django<3.0
