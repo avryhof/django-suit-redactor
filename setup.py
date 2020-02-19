@@ -10,7 +10,7 @@ setup(
     packages=["suit_redactor"],
     zip_safe=False,
     include_package_data=True,
-    install_requires=["django<3.0", "django-suit"],
+    install_requires=["django>2.1,<3.0", "django-suit"],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Framework :: Django",
