@@ -5,3 +5,6 @@
 *.log
 /build
 /dist/
+/venv/
+/django_suit_redactor_django2.egg-info/
+/build/
