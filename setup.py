@@ -1,12 +1,15 @@
+from os import read
+
 from setuptools import setup
 
 setup(
     name="django-suit-redactor-django2",
     version="0.0.5",
     description="Imperavi Redactor (WYSIWYG editor) integration app for Django admin. http://imperavi.com/redactor/",
+    long_description=read('README.rst'),
     author="Kaspars Sprogis (darklow)",
     author_email="info@djangosuit.com",
-    url="https://github.com/darklow/django-suit-redactor",
+    url="https://github.com/avryhof/django-suit-redactor",
     packages=["suit_redactor"],
     zip_safe=False,
     include_package_data=True,
